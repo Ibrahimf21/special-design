@@ -162,7 +162,7 @@ body {
 /* Start LAnding Page */
 .landing-page {
     min-height: 100vh;
-    background-image: url("../imgs/img-1.jpg");
+    background-image: url("/imgs/img-1.jpg");
     background-size: cover;
     position: relative;
 }
@@ -726,7 +726,7 @@ z-index: 2;
 /* Start Contact Us */
 .contact {
     min-height: 600px;
-    background-image:url("/imgs/contact.png") ;
+    background-image:url("../imgs/contact.png") ;
     background-size: cover;
     padding-top: 80px;
     padding-bottom: 80px;
